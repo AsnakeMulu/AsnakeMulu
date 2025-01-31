@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I'm Asnake Mulu
+Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a passion for creating dynamic and responsive web applications. Here’s a bit more about me:
 
 <!--
 **AsnakeMulu/AsnakeMulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
