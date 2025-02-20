@@ -1,20 +1,23 @@
 ## Hi there 👋, I'm Asnake Mulu
-Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a passion for creating dynamic and responsive web applications. Here’s a bit more about me:
+Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a passion for building **scalable applications** and solving **real-world problems** . Here’s a bit more about me:
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** 
   - ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) React.js
-- **Backend:** 
-  - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) Node.js
-  - ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white) Express.js
+  - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) Angular
+
+- **Backend:**
+  - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) Django
+  - ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) .Net
+  - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) Spring Boot
+
+- **Databases**
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
+  - ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) MS SQL
   - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) MongoDB
 
 - **Other:** 
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) TypeScript
   - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) GitHub
-  - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) VS Code
 
 - **Languages:** 
   - ![Amharic](https://img.shields.io/badge/Amharic-ffdd55?style=flat) Amharic
@@ -28,25 +31,25 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a passi
 - Experienced in both frontend and backend development
 - Proficient in building and deploying full-stack applications
 - Successfully led and contributed to various web projects, including:
-   - **Personal Portfolio Website**
+    - **[Delivery App](#)** – A user-friendly delivery app (React Native & Django)
+    - **[Edir App](#)** – A digital solution for Ethiopian traditional 'edir' system
 
 ## 🔍 Find Me Online
 - **Portfolio:** [AsnakeMulu.github.io](https://AsnakeMulu.github.io)
 - **LinkedIn:** [Asnake Mulu](https://www.linkedin.com/in/asnake-mulu-089953194/)
+- **Youtube:** [YouTube](https://www.youtube.com/@AmbaTechnology)
 - **Email:** asnakemuluit@gmail.com
 
 ## 🌱 Currently Learning
-- Exploring advanced features of ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) React and ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) TypeScript
 - Enhancing skills in ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) GraphQL and ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) Next.js
 
 ## 🚀 Goals
 - Continuously improve my coding skills and learn new technologies
 
-## 📫 Get in Touch
-Feel free to reach out if you have any questions, suggestions, or just want to connect!
-
+### 📊 GitHub Stats
 ![AsnakeMulu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asnakemulu&show_icons=true&theme=radical)
 
+🔥 **Let's build something amazing together!** 🚀
 <!--
 **AsnakeMulu/AsnakeMulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
