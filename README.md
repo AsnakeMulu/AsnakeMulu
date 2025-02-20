@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a passi
 ## 🔍 Find Me Online
 - **Portfolio:** [AsnakeMulu.github.io](https://AsnakeMulu.github.io)
 - **LinkedIn:** [Asnake Mulu](https://www.linkedin.com/in/asnake-mulu-089953194/)
-- **Youtube:** [YouTube](https://www.youtube.com/@AmbaTechnology)
+- **Youtube:** [Amba Technology](https://www.youtube.com/@AmbaTechnology)
 - **Email:** asnakemuluit@gmail.com
 
 ## 🌱 Currently Learning
