@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a passi
 - **Other:** 
   - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git
 
-- **Languages:** 
+## 🌍 Languages 
   - ![Amharic](https://img.shields.io/badge/Amharic-ffdd55?style=flat) Amharic
   - ![English](https://img.shields.io/badge/English-ffdd55?style=flat) English
 
@@ -48,6 +48,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a passi
 
 ### 📊 GitHub Stats
 ![AsnakeMulu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asnakemulu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnakemulu&layout=compact&theme=radical)
 
 🔥 **Let's build something amazing together!** 🚀
 <!--
